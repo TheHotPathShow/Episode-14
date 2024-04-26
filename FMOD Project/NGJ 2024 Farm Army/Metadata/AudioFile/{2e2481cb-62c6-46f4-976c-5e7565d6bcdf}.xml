@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{2e2481cb-62c6-46f4-976c-5e7565d6bcdf}">
+		<property name="assetPath">
+			<value>Army/SeedlingB_Throw_009.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.53102083333333339</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3acbba48-8219-4776-bd05-182806c50575}</destination>
+		</relationship>
+	</object>
+</objects>

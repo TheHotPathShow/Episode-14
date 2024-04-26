@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3685663074725715271
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1550127263046142909, guid: 4a145ec3928031e4182a434aba1524be, type: 3}
+      propertyPath: m_Name
+      value: SeedA
+      objectReference: {fileID: 0}
+    - target: {fileID: 3533718190245126332, guid: 4a145ec3928031e4182a434aba1524be, type: 3}
+      propertyPath: gridPixelSize
+      value: 250
+      objectReference: {fileID: 0}
+    - target: {fileID: 3533718190245126332, guid: 4a145ec3928031e4182a434aba1524be, type: 3}
+      propertyPath: spriteTextureSheet
+      value: 
+      objectReference: {fileID: 2800000, guid: 959aa41a7bd2a6546813cbd7eccd4d71, type: 3}
+    - target: {fileID: 3533718190245126332, guid: 4a145ec3928031e4182a434aba1524be, type: 3}
+      propertyPath: animations.Array.data[0].spriteFrames.Array.data[0]
+      value: 
+      objectReference: {fileID: 466614822, guid: 959aa41a7bd2a6546813cbd7eccd4d71, type: 3}
+    - target: {fileID: 3533718190245126332, guid: 4a145ec3928031e4182a434aba1524be, type: 3}
+      propertyPath: animations.Array.data[0].spriteFrames.Array.data[1]
+      value: 
+      objectReference: {fileID: -2142315510, guid: 959aa41a7bd2a6546813cbd7eccd4d71, type: 3}
+    - target: {fileID: 5689555070074417112, guid: 4a145ec3928031e4182a434aba1524be, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5689555070074417112, guid: 4a145ec3928031e4182a434aba1524be, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5689555070074417112, guid: 4a145ec3928031e4182a434aba1524be, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5689555070074417112, guid: 4a145ec3928031e4182a434aba1524be, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5689555070074417112, guid: 4a145ec3928031e4182a434aba1524be, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5689555070074417112, guid: 4a145ec3928031e4182a434aba1524be, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5689555070074417112, guid: 4a145ec3928031e4182a434aba1524be, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5689555070074417112, guid: 4a145ec3928031e4182a434aba1524be, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5689555070074417112, guid: 4a145ec3928031e4182a434aba1524be, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5689555070074417112, guid: 4a145ec3928031e4182a434aba1524be, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6589345521523120867, guid: 4a145ec3928031e4182a434aba1524be, type: 3}
+      propertyPath: SeedlingType
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6775983633154422588, guid: 4a145ec3928031e4182a434aba1524be, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ece81989a5b7f794bad01b542262798f, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4a145ec3928031e4182a434aba1524be, type: 3}

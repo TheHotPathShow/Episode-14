@@ -1,0 +1,17 @@
+.slot {
+    width: 200px;
+    height: 200px;
+}
+
+.slotimage {
+}
+
+.unity-label {
+    -unity-font: url("project://database/Assets/UI%20Toolkit/PermanentMarker-Regular.ttf?fileID=12800000&guid=587fbcec7f0fd884887c45cebcb7edf5&type=3#PermanentMarker-Regular");
+    -unity-font-definition: url("project://database/Assets/UI%20Toolkit/PermanentMarker-Regular%20SDF.asset?fileID=11400000&guid=748a09822c2bc354b87fe903be575cda&type=2#PermanentMarker-Regular SDF");
+    -unity-text-outline-width: 72px;
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+    -unity-font-style: bold;
+    -unity-text-outline-color: rgb(255, 255, 255);
+}

@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement name="Kernel" class="slot" style="flex-direction: column-reverse; margin-right: 10px; margin-left: 10px;">
+        <ui:VisualElement name="Holster" class="slotimage" style="flex-grow: 1; position: absolute; left: 0; top: 0; right: 0; bottom: 0; align-self: stretch; flex-direction: row; align-items: flex-start; justify-content: center; background-image: url(&quot;project://database/Assets/Art/UI/UIBox-Framed.png?fileID=2800000&amp;guid=84c8debca8bfdae4faefa894c1166cfb&amp;type=3#UIBox-Framed&quot;);">
+            <ui:VisualElement name="Image" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Art/Player%20and%20bullets/Seedling.png?fileID=2800000&amp;guid=564a1700f494d634ab4ce3315bdb20c1&amp;type=3#Seedling&quot;); scale: 0.5 0.5; translate: 0 -6px; position: absolute; left: 0; top: 0; right: 0; bottom: 0;" />
+        </ui:VisualElement>
+        <ui:Label tabindex="-1" text="52" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Amount" style="-unity-text-align: lower-center; margin-bottom: 16px;" />
+    </ui:VisualElement>
+</ui:UXML>
